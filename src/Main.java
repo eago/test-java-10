@@ -32,6 +32,10 @@ public class Main {
       var message10 = "Hello, Java 10";
       System.out.println(message10.getClass());
 
+      var age = 10;
+
+      System.out.println();
+
       var idToNameMap = new HashMap<Integer, String>();
 
     }
